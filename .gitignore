@@ -1,0 +1,19 @@
+# Build
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local
+*.log
+
+# Drivers seriais embutidos (NEXT MAKER): as DLLs fazem parte dos pacotes assinados
+!Drivers/**
