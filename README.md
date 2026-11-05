@@ -7,7 +7,6 @@
 > (licença [MIT](LICENSE): mantenha o aviso de copyright).
 
 ## Novidades da v0.16
-- **Novo nome:** o RESET EXPLODE virou **NEXT STUDIO** e todas as categorias ganharam o prefixo NEXT (NEXT BENCH, NEXT OTIMIZA, NEXT MAKER…).
 - **Cabe na tela:** a janela mede a tela em que está e nunca abre maior que ela; a interface é reescalada sozinha (TV 1366×768, 1080p, 4K).
 - **Inicialização** (NEXT FERRAMENTAS): veja, desative ou remova os programas que abrem junto com o Windows, com opção de desfazer.
 - **Instalar apps** (NEXT FERRAMENTAS): Steam, Chrome, Discord, Lightshot, 7-Zip, WinRAR e VLC de uma vez depois de formatar, pelo winget.
